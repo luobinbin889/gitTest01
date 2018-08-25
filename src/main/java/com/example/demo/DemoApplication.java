@@ -10,5 +10,6 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
         System.out.print("test abc");
         //123
+        //hello
     }
 }
